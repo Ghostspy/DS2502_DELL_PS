@@ -25,8 +25,8 @@ Programming a device multiple times will not hurt or corrupt the device unless a
 Progress can be monitored via the Serial terminal in the IDE
 ---
  Sept. 2015 , Gary Stofer, GaryStofer@gmail.com
- This file archived at https://github.com/garyStofer/DS2502_DELL_PS
+  - This file archived at https://github.com/garyStofer/DS2502_DELL_PS
 
  August 30, 2025, Chad Bittner, cbittner56@msn.com
- - Added DS2502__DELL_PS.ino for programming the DS2502+ from [DigiKey](https://www.digikey.com/en/products/detail/analog-devices-inc-maxim-integrated/DS2502/1197440) 
+ - Added DS2502_DELL_PS.ino for programming the DS2502+ from [DigiKey](https://www.digikey.com/en/products/detail/analog-devices-inc-maxim-integrated/DS2502/1197440) 
  - Replace R1 4.7K resistor with 2.2K resistor for programming the DS2502+ version of the DS2502 IC
