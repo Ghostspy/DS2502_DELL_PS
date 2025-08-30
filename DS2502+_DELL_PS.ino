@@ -27,6 +27,7 @@ Progress can be monitored via the Serial terminal in the IDE
 
  August 30, 2025, Chad Bittner, cbittner56@msn.com
  - Replace R1 4.7K resistor with 2.2K resistor for programming the DS2502+ version of the DS2502 IC
+ - https://www.digikey.com/en/products/detail/analog-devices-inc-maxim-integrated/DS2502/1197440
 
 */
 
